@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Кукулятор</string>
+    <string name="first_count">first_count</string>
+    <string name="second_count">second_count</string>
+    <string name="sum">sum</string>
+    <string name="subtract">subtract</string>
+    <string name="divide">divide</string>
+    <string name="multiply">multiply</string>
+    <string name="result">result</string>
+</resources>
